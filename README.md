@@ -20,9 +20,10 @@ Beyond my ongoing undergraduate degree in Computer Science and Engineering (CSE)
 - Introduction to **mongoDB**
 - Introduction to the Internet of Things - **IoT** Value Chain
 - Introduction to **Software Testing** Concepts & Techniques
-- **ISTQB** Foundations *[Ongoing]*
-<br>
+- **ISTQB** Foundations *[Ongoing]* <br>
+
 ## 🛠️ Projects:
+
 ### C Mini UNIX Shell [Solo, Ongoing]
 Creating a unix-like command-line shell implemented in C that replicates core features of standard shells. It supports command execution, process creation, piping, I/O redirection, and basic built-in commands. The project demonstrates low-level system programming concepts including process management, system calls, and inter-process communication, providing a deeper understanding of how OS shells function internally.
 
@@ -51,4 +52,5 @@ A real-time IoT-based system designed to monitor and analyze solar panel perform
 
 ## 🌐 Contacts:
 *Feel free to reach out about jobs or open-source collaborations!*
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-emad-0a2518318/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michael.emad@ieee.org)
