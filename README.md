@@ -14,14 +14,14 @@
 ---
 
 ## 🛠️ Projects:
-### C Mini UNIX Shell [Solo, Ongoing]
+### C Mini UNIX Shell [⌛Ongoing, Solo]
 Creating a unix-like command-line shell implemented in C that replicates core features of standard shells. It supports command execution, process creation, piping, I/O redirection, and basic built-in commands. The project demonstrates low-level system programming concepts including process management, system calls, and inter-process communication, providing a deeper understanding of how OS shells function internally.
 
 **Technologies & Concepts:**
 - C/Low-level programming, focusing on memory-management
 - OS concepts and libraries (fork, exec, wait, pipe)
 
-### IoT-based Solar Panel Performance Monitoring System [Group-project]
+### IoT-based Solar Panel Performance Monitoring System [👥Group-project]
 A real-time IoT-based system designed to monitor and analyze solar panel performance by collecting key electrical and environmental parameters such as voltage, current, power output, and temperature. Sensor data is transmitted to a microcontroller and visualized through a dashboard for performance tracking and efficiency analysis. The system enables remote monitoring, fault detection, and optimization of solar energy generation, demonstrating the integration of embedded systems, IoT communication, and data visualization for sustainable energy applications.
 
 **Technologies & Concepts:**
@@ -36,20 +36,20 @@ Beyond my ongoing undergraduate degree in Computer Science and Engineering (CSE)
 
 ### HarvardX
 - Fundamentals of TinyML
-- CS50x: Introduction to Computer Science *[Ongoing, final project]*
+- CS50x: Introduction to Computer Science *[⌛Ongoing, final project]*
 - CS50CY Cybersecurity *[Awaiting review]*
-- CS50W Web Programming with Python and JavaScript *[Ongoing]* 
+- CS50W Web Programming with Python and JavaScript *[⌛Ongoing]* 
 
 ### MaharaTech, an ITI Platform
 - **C** Programming From Basics to Mastery
 - **Embedded C: Hardware** Essentials and Device Driver Development
-- **Database** Fundamentals
+- **Database** Fundamentals, **SQL**
 - Computer **Network** Fundamentals
 - **Python** Programming Basics
-- Introduction to **mongoDB**
+- Introduction to **mongoDB (NoSQL DB)**
 - Introduction to the Internet of Things - **IoT** Value Chain
 - Introduction to **Software Testing** Concepts & Techniques
-- **ISTQB** Foundations *[Ongoing]* <br>
+- **ISTQB** Foundations *[⌛Ongoing]* <br>
 
 ---
 
