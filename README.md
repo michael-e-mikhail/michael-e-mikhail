@@ -1,9 +1,26 @@
 # Michael Emad Mikhail, Computer Engineer
 ## ✨ About Me || Summary
-I am a **multidisciplinary Computer Engineering** student at E-JUST with strong interests in Artificial Intelligence, Embedded Systems, and Systems Architecture. I have hands-on experience in Python, C/C++, databases, and modern web technologies, developed through academic work, IEEE initiatives, and independent projects/learning via edX and HarvardX. My training includes Harvard CS50 series and HarvardX TinyML, alongside applied coursework in Embedded C, Networking, IoT, Databases, and Software Testing. I am passionate about building efficient, real-world systems, solving complex problems, and continuously growing through interdisciplinary engineering and collaboration.
+**Multidisciplinary Computer Engineering** student at E-JUST with interests in Artificial Intelligence, Embedded Systems, Systems Architecture, and Software Development. Experienced in Python, C/C++, databases, and modern web technologies through academic projects, IEEE initiatives, and independent learning. Completed technical programs including Harvard CS50, HarvardX TinyML, and applied coursework in Embedded C, Networking, IoT, and Software Testing. Passionate about building efficient real-world systems, solving complex problems, and continuously expanding technical skills through interdisciplinary engineering.
 
 ## 💻 Tech Stack || Tool Chain:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) <br>
+
+## 🛠️ Projects:
+
+### C Mini UNIX Shell [Solo, Ongoing]
+Creating a unix-like command-line shell implemented in C that replicates core features of standard shells. It supports command execution, process creation, piping, I/O redirection, and basic built-in commands. The project demonstrates low-level system programming concepts including process management, system calls, and inter-process communication, providing a deeper understanding of how OS shells function internally.
+
+**Skills Gained:**
+- C/Low-level programming, focusing on memory-management
+- OS concepts and libraries (fork, exec, wait, pipe)
+
+### IoT-based Solar Panel Performance Monitoring System [Group-project]
+A real-time IoT-based system designed to monitor and analyze solar panel performance by collecting key electrical and environmental parameters such as voltage, current, power output, and temperature. Sensor data is transmitted to a microcontroller and visualized through a dashboard for performance tracking and efficiency analysis. The system enables remote monitoring, fault detection, and optimization of solar energy generation, demonstrating the integration of embedded systems, IoT communication, and data visualization for sustainable energy applications.
+
+**Skills Gained:**
+- ESP32
+- Google Cloud Platform, FireBase real-time DB
+- Sesnors, Hardware, Circuits
 
 ## 📚 Education & Certifications
 Beyond my ongoing undergraduate degree in Computer Science and Engineering (CSE) from **E-JUST (FOE)**, I've expanded my education *(and always eager to learn more!)* through technical coursework and certifications including from:<br>
@@ -24,23 +41,6 @@ Beyond my ongoing undergraduate degree in Computer Science and Engineering (CSE)
 - Introduction to the Internet of Things - **IoT** Value Chain
 - Introduction to **Software Testing** Concepts & Techniques
 - **ISTQB** Foundations *[Ongoing]* <br>
-
-## 🛠️ Projects:
-
-### C Mini UNIX Shell [Solo, Ongoing]
-Creating a unix-like command-line shell implemented in C that replicates core features of standard shells. It supports command execution, process creation, piping, I/O redirection, and basic built-in commands. The project demonstrates low-level system programming concepts including process management, system calls, and inter-process communication, providing a deeper understanding of how OS shells function internally.
-
-**Skills Gained:**
-- C/Low-level programming, focusing on memory-management
-- OS concepts and libraries (fork, exec, wait, pipe)
-
-### IoT-based Solar Panel Performance Monitoring System [Group-project]
-A real-time IoT-based system designed to monitor and analyze solar panel performance by collecting key electrical and environmental parameters such as voltage, current, power output, and temperature. Sensor data is transmitted to a microcontroller and visualized through a dashboard for performance tracking and efficiency analysis. The system enables remote monitoring, fault detection, and optimization of solar energy generation, demonstrating the integration of embedded systems, IoT communication, and data visualization for sustainable energy applications.
-
-**Skills Gained:**
-- ESP32
-- Google Cloud Platform, FireBase real-time DB
-- Sesnors, Hardware, Circuits
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=michael-e-mikhail&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
