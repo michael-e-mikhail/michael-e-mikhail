@@ -1,10 +1,11 @@
 ### Michael Emad Mikhail, Computer Engineer
 ## About Me:
->I am a multidisciplinary Computer Engineering student passionate about problem-solving, continuous learning, and leveraging technology to create innovative, impactful, and real-world solutions while contributing effectively within interdisciplinary teams with strong interests in Artificial Intelligence, Data Science, Cybersecurity, Embedded Systems, and combining them to <u>develop systems</u> :D<br><br>
->Experienced in developing both technical and community-focused projects through **leadership and volunteer work within IEEE** initiatives.<br><br>
-**>Skilled in:** Python, C, C++, DB Skills, SQL, MongoDB(NoSQL), MATLAB, and modern web technologies including HTML, CSS, Bootstrap, SASS, and JavaScript, with additional experience in data analysis and collaborative software development.<br><u>**CHECK OUT MY TOOLCHAIN BELOW**</u><br><br>
+I am a multidisciplinary Computer Engineering student passionate about problem-solving, continuous learning, and leveraging technology to create innovative, impactful, and real-world solutions while contributing effectively within interdisciplinary teams with strong interests in Artificial Intelligence, Data Science, Cybersecurity, Embedded Systems, and combining them to <u>develop systems</u> :D<br><br>
+Experienced in developing both technical and community-focused projects through **leadership and volunteer work within IEEE** initiatives.<br><br>
 
->Beyond my ongoing undergraduate degree in Computer Science and Engineering from **E-JUST (FOE)**, I've expanded my education *(and always eager to learn more!)* through technical coursework and certifications including from:<br><br>
+**Skilled in:** Python, C, C++, DB Skills, SQL, MongoDB(NoSQL), MATLAB, and modern web technologies including HTML, CSS, Bootstrap, SASS, and JavaScript, with additional experience in data analysis and collaborative software development.<br><u>**CHECK OUT MY TOOLCHAIN BELOW**</u><br><br>
+
+Beyond my ongoing undergraduate degree in Computer Science and Engineering from **E-JUST (FOE)**, I've expanded my education *(and always eager to learn more!)* through technical coursework and certifications including from:<br><br>
 ###HarvardX:
 <br>**CS50x**(ongoing, final project), CS50 **Cybersecurity**(done, awaiting review), **CS50W Web Programming** with Python and JavaScript, and Fundamentals of **TinyML**, gaining hands-on experience through programming labs and projects<br><br>
 ###MaharaTech, an ITI Platform:<br>
