@@ -4,7 +4,7 @@
 ---
 
 ## ✨ About Me || Summary
-**Multidisciplinary Computer Engineering** student at E-JUST with interests in Artificial Intelligence, Embedded Systems, Systems Architecture, and Software Development. Experienced in Python, C/C++, databases, and modern web technologies through academic projects, IEEE initiatives, and independent learning. Completed technical programs including Harvard CS50, HarvardX TinyML, and applied coursework in Embedded C, Networking, IoT, and Software Testing. Passionate about building efficient real-world systems, solving complex problems, and continuously expanding technical skills through interdisciplinary engineering.
+**Multidisciplinary Computer Engineering** student at E-JUST with interests and strong foundations in Artificial Intelligence, Embedded Systems, Systems Architecture, and Software Development. Experienced in Python, C/C++, databases, and modern web technologies through academic projects, IEEE initiatives, and independent learning. Completed technical programs including Harvard CS50, HarvardX TinyML, and applied coursework in Embedded C, Networking, IoT, and Software Testing. Passionate about building efficient real-world systems, solving complex problems, and continuously expanding technical skills through interdisciplinary engineering.  <br>
 
 ---
 
@@ -27,7 +27,7 @@ A real-time IoT-based system designed to monitor and analyze solar panel perform
 **Technologies & Concepts:**
 - ESP32
 - Google Cloud Platform, FireBase real-time DB
-- Sensors, Hardware, Circuits
+- Sensors, Hardware, Circuits <br>
 
 ---
 
@@ -37,7 +37,7 @@ Beyond my ongoing undergraduate degree in Computer Science and Engineering (CSE)
 ### HarvardX
 - Fundamentals of TinyML
 - CS50x: Introduction to Computer Science *[⌛Ongoing, final project]*
-- CS50CY Cybersecurity *[Awaiting review]*
+- CS50CY Cybersecurity *[⌛Awaiting review]*
 - CS50W Web Programming with Python and JavaScript *[⌛Ongoing]* 
 
 ### MaharaTech, an ITI Platform
@@ -56,8 +56,7 @@ Beyond my ongoing undergraduate degree in Computer Science and Engineering (CSE)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=michael-e-mikhail&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=michael-e-mikhail&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=michael-e-mikhail&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<br>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=michael-e-mikhail&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact) <br>
 
 ---
 
