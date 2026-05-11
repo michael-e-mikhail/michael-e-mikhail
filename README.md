@@ -3,12 +3,12 @@
 I am a **multidisciplinary Computer Engineering** student at E-JUST with strong interests in Artificial Intelligence, Embedded Systems, and Systems Architecture. I have hands-on experience in Python, C/C++, databases, and modern web technologies, developed through academic work, IEEE initiatives, and independent projects/learning via edX and HarvardX. My training includes Harvard CS50 series and HarvardX TinyML, alongside applied coursework in Embedded C, Networking, IoT, Databases, and Software Testing. I am passionate about building efficient, real-world systems, solving complex problems, and continuously growing through interdisciplinary engineering and collaboration.
 
 ## 📚 Education & Certifications
-Beyond my ongoing undergraduate degree in Computer Science and Engineering from **E-JUST (FOE)**, I've expanded my education *(and always eager to learn more!)* through technical coursework and certifications including from:<br>
+Beyond my ongoing undergraduate degree in Computer Science and Engineering (CSE) from **E-JUST (FOE)**, I've expanded my education *(and always eager to learn more!)* through technical coursework and certifications including from:<br>
 
 ### HarvardX
 - Fundamentals of TinyML
 - CS50x: Introduction to Computer Science *[Ongoing, final project]*
-- CS50CY Cybersecurity *[Done, being review]*
+- CS50CY Cybersecurity *[Awaiting review]*
 - CS50W Web Programming with Python and JavaScript *[Ongoing]* 
 
 ### MaharaTech, an ITI Platform
@@ -20,9 +20,8 @@ Beyond my ongoing undergraduate degree in Computer Science and Engineering from 
 - Introduction to **mongoDB**
 - Introduction to the Internet of Things - **IoT** Value Chain
 - Introduction to **Software Testing** Concepts & Techniques
-- **ISTQB** Foundations (ongoing)
+- **ISTQB** Foundations *[Ongoing]*
 <br>
-
 ## 🛠️ Projects:
 ### C Mini UNIX Shell [Solo, Ongoing]
 Creating a unix-like command-line shell implemented in C that replicates core features of standard shells. It supports command execution, process creation, piping, I/O redirection, and basic built-in commands. The project demonstrates low-level system programming concepts including process management, system calls, and inter-process communication, providing a deeper understanding of how OS shells function internally.
@@ -51,5 +50,5 @@ A real-time IoT-based system designed to monitor and analyze solar panel perform
 <br>
 
 ## 🌐 Contacts:
-### *Feel free to reach out about jobs or open-source collaborations!*
+*Feel free to reach out about jobs or open-source collaborations!*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-emad-0a2518318/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:michael.emad@ieee.org)
