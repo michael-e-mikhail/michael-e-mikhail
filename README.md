@@ -50,7 +50,14 @@ Beyond my ongoing undergraduate degree in Computer Science and Engineering (CSE)
 - Introduction to the Internet of Things - **IoT** Value Chain
 - Introduction to **Software Testing** Concepts & Techniques
 - **ISTQB** Foundations *[⌛Ongoing]*
-- **UI/UX** Foundations *[⌛Ongoing]* <br>
+- **UI/UX** Foundations *[⌛Ongoing]*
+
+### w3schools
+- **C++**
+- **C**
+- **Python**
+- **Cybersecurity**
+- **AI** <br>
 
 ---
 
