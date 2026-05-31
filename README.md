@@ -49,7 +49,8 @@ Beyond my ongoing undergraduate degree in Computer Science and Engineering (CSE)
 - Introduction to **mongoDB (NoSQL DB)**
 - Introduction to the Internet of Things - **IoT** Value Chain
 - Introduction to **Software Testing** Concepts & Techniques
-- **ISTQB** Foundations *[⌛Ongoing]* <br>
+- **ISTQB** Foundations *[⌛Ongoing]*
+- **UI/UX** Foundations *[⌛Ongoing]* <br>
 
 ---
 
